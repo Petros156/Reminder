@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="reminder_title">Reminder Title</string>
+    <string name="save">save</string>
+    <string name="setDate">Date</string>
+    <string name="setTime">Time</string>
+</resources>
